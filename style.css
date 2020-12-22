@@ -1,0 +1,14 @@
+img {
+  height: auto;
+  object-fit: cover;
+}
+button {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+}
+#reset {
+  position: fixed;
+  bottom: 10px;
+  left: 200px;
+}
